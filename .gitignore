@@ -1,5 +1,14 @@
 .nfs*
 
+
+.*
+segment-anything/
+ckp/
+docker/
+*.mp4
+*.ipynb
+/tmp/*
+
 # compilation and distribution
 __pycache__
 _ext
