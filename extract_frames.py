@@ -7,7 +7,8 @@ import imageio
 import PIL
 from PIL import Image
 
-vid_path  = 'GBP 24.mp4'
+vid_path  = '/CMF/data/lumargot/hysterectomy/GBP_instruments/GBP 24.mp4'
+
 
 save_path = 'frames/'
 
